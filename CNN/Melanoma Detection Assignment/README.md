@@ -60,7 +60,7 @@ The data set contains the following diseases:
 ### Baseline Model
 
 Accuracy and Loss charts for the baseline model
-![Alt text]([/Readme%20Images/Augmented_model.PNG](https://github.com/abhinav221294/DeepLearning/blob/main/CNN/Melanoma%20Detection%20Assignment/Readme%20Images/baseline_model.PNG))
+![Alt text](Readme%20Images/Final_model.PNG))
 
 
 
@@ -72,7 +72,7 @@ Accuracy and Loss charts for the baseline model
 ### Augmented Model
 
 Accuracy and Loss charts for the augmented model
-![Alt text]([/Readme%20Images/Augmented_model.PNG](https://github.com/abhinav221294/DeepLearning/blob/main/CNN/Melanoma%20Detection%20Assignment/Readme%20Images/Augmented_model.PNG))
+![Alt text](Readme%20Images/Final_model.PNG))
 
 
 

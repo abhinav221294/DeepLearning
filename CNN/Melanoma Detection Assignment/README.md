@@ -60,7 +60,7 @@ The data set contains the following diseases:
 ### Baseline Model
 
 Accuracy and Loss charts for the baseline model
-![Alt text](Readme%20Images/Final_model.PNG))
+![Alt text](/CNN/Melanoma Detection Assignment/Readme Images/Augmented_model.PNG)
 
 
 
@@ -98,6 +98,7 @@ Augmenting the data and countering class imbalance helped in improving the accur
 - Augmentor
 - Matplotlib
 - NumPy
+- 
 
 # Contact
 

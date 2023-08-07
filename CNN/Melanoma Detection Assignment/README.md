@@ -78,7 +78,7 @@ Accuracy and Loss charts for the baseline model
 
 ### Augmented Model
 
-Accuracy and Loss charts for the augmented model
+Accuracy and Loss charts for the augmented model \n
 ![Alt text](Augmented_model.PNG)
 
 

@@ -60,7 +60,7 @@ The data set contains the following diseases:
 ### Baseline Model
 
 Accuracy and Loss charts for the baseline model
-![Alt text](/Readme%20Images/baseline_model.PNG)
+![Alt text](/Readme%20Images/Augmented_model.PNG)
 
 
 

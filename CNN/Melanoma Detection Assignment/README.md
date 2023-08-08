@@ -88,7 +88,7 @@ Augmenting the data and countering class imbalance helped in improving the accur
 - Augmentor
 - Matplotlib
 - NumPy
-- 
+- Glob
 
 # Contact
 
